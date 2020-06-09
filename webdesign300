@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>f Aswm</title>
+    <!-- Link to Font Awesome CDN - Content Delivert Network-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"  crossorigin="anonymous">
+<body>
+    <i class="fas fa-angry"></i>
+    <i class="fas fa-angry fa-md"></i>
+    <i class="fas fa-angry fa-xs"></i>
+    <i class="fas fa-angry fa-2x"></i>
+    <i class="fas fa-angry fa-3x"></i>
+    <i class="fas fa-angry fa-10x"></i>
+    <i class="fas fa-laptop-code fa-10x"></i>
+
+    <br>
+
+    <a href="http://www.facebook.com"><i class="fab fa-facebook-f fa-3x "></i> </a>>
+
+
+<body>
+<video width="320" height="240" controls>
+    <source src="https://r5---sn-npoeenek.googlevideo.com/videoplayback?expire=1591668302&ei=7pneXvebDJG2xN8P3PqyuAY&ip=163.172.180.18&id=o-ANrOykMKLRpUjQEKsc_ASrv2ncvyt8z1ppj9Eoiksjts&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=2107195&ratebypass=yes&dur=22.871&lmt=1419707927316583&fvip=1&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgLj6alqvclddWu_6LyGpAKVrNw4OewTsA-Jgrp7nnadACIFS-LwrsXwRYAftsc8HoJ96EuS0exbcHXK7Uhn5pHgEL&video_id=BaO-1PGcM7E&title=mini-intro&redirect_counter=1&cm2rm=sn-25gd77e&req_id=751d9aca39f0a3ee&cms_redirect=yes&mh=AZ&mip=103.68.4.133&mm=34&mn=sn-npoeenek&ms=ltu&mt=1591646026&mv=u&mvi=0&pl=24&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAMN3Ob9l3m_3bJ9xnV_KonJyqVS7jC946DjtwnoTfoHHAiBtIYPtbeZ5zgSq29v3ryDsJ1FxiJmpf-1nURJPQTwpqA%3D%3D&ir=1&rr=12" type="video/mp4">
+    
+  Your browser does not support the video tag.
+  </video>
+</body>
+  <table border="1">
+<tr><th>name</th> <th>roll</th></tr>
+<tr><td>sourav</td><td>1620</td></tr>
+<tr>
+   <td rowspan="2">tanbir</td><td>17041</td>
+</tr>
+<tr><td>kobitas hubby</td></tr>
+  </table>
+
+  <address>rampura,dhaka 1219</address>
+
+  
+
+    <button>
+        <a href="http://www.facebook.com"  >facebook</a>
+    </button>
+
+    <body>
+    <h1><b>ENERGY LEVEL</b></h1>
+   <p> Sourav</p>
+    <meter min="0" max="100" value="70">70%</meter><br>
+    <p>Tanbir</p>
+    <meter min="0" max="100" value="10">10%</meter><br>
+    <p>kamru</p>
+    <meter min="0" max="100" value="50">50%</meter><br>
+    <p>Abir</p>
+    <meter min="0" max="100" value="75">75%</meter><br>
+    <p>Sadaf</p>
+    <meter min="0" max="100" value="05">05%</meter><br>
+</body>
+
+<iframe src="http://www.youtube.com" width="1200px">
+</iframe><br>
+</html>
